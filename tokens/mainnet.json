@@ -1,6 +1,14 @@
 [
   {
     "chainId": 42161,
+    "address": "0xd946188A614A0d9d0685a60F541bba1e8CC421ae",
+    "name": "Zar Stablecoin ",
+    "symbol": "ZAR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/zar.png"
+  },
+  {
+    "chainId": 42161,
     "address": "0x6314C31A7a1652cE482cffe247E9CB7c3f4BB9aF",
     "name": "1inch",
     "symbol": "1INCH",
