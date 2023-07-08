@@ -2,10 +2,11 @@
   {
     "chainId": 42161,
     "address": "0xd946188A614A0d9d0685a60F541bba1e8CC421ae",
-    "name": "Zar Stablecoin ",
+    "name": "Zar Stablecoin",
     "symbol": "ZAR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/zar.png"
+    "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/zar.png",
+    "persianName": "زر"
   },
   {
     "chainId": 42161,
@@ -14,6 +15,7 @@
     "symbol": "1INCH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/1inch.png",
+    "persianName": "وان اینچ",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -29,6 +31,7 @@
     "symbol": "AAVE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/aave.png",
+    "persianName": "آوه",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -44,6 +47,7 @@
     "symbol": "ANKR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/ankr.png",
+    "persianName": "انکر",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -59,6 +63,7 @@
     "symbol": "APE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/ape.png",
+    "persianName": "ایپ‌کوین",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -74,6 +79,7 @@
     "symbol": "BAT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/bat.png",
+    "persianName": "بیسیک اتنشن توکن",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -89,6 +95,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/busd.png",
+    "persianName": "بایننس یواس‌دی",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -104,6 +111,7 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/comp.png",
+    "persianName": "کامپاند",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -119,6 +127,7 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/crv.png",
+    "persianName": "کرو دائو",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -134,6 +143,7 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/dai.png",
+    "persianName": "دای",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -149,6 +159,7 @@
     "symbol": "DYDX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/dydx.png",
+    "persianName": "دی‌وای دی‌ایکس",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -164,6 +175,7 @@
     "symbol": "ENS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/ens.png",
+    "persianName": "اتریوم نیم سرویس",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -179,6 +191,7 @@
     "symbol": "FTM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/ftm.png",
+    "persianName": "فانتوم",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -194,6 +207,7 @@
     "symbol": "GALA",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/gala.png",
+    "persianName": "گالا",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -209,6 +223,7 @@
     "symbol": "GRT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/grt.png",
+    "persianName": "گراف",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -224,6 +239,7 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/link.png",
+    "persianName": "چین‌لینک",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -239,6 +255,7 @@
     "symbol": "MANA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/mana.png",
+    "persianName": "مانا",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -254,6 +271,7 @@
     "symbol": "MATIC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/matic.png",
+    "persianName": "ماتیک",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -269,6 +287,7 @@
     "symbol": "SAND",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/sand.png",
+    "persianName": "سندباکس",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -284,6 +303,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/sushi.png",
+    "persianName": "سوشی",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -299,6 +319,7 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/uni.png",
+    "persianName": "یونی",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -314,6 +335,7 @@
     "decimals": 6,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/usdc.png",
+    "persianName": "یواس‌دی‌سی",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -329,6 +351,7 @@
     "decimals": 6,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/usdt.png",
+    "persianName": "یواس‌دی‌تی",
     "extensions": {
       "bridgeInfo": {
         "1": {
@@ -344,6 +367,7 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/zarbanio/token-list/main/assets/logos/weth.png",
+    "persianName": "رپد اتریوم",
     "extensions": {
       "bridgeInfo": {
         "1": {
